@@ -32,6 +32,7 @@
     "i18next": "^23.15.2",
     "i18next-express-middleware": "^2.0.0",
     "i18next-fs-backend": "^2.3.2",
+    "i18next-http-backend": "^2.6.2",
     "i18next-http-middleware": "^3.6.0",
     "inserturlparams": "^2.0.4",
     "jet-logger": "^2.0.1",

@@ -130,7 +130,8 @@
     "submit-reply": "Gửi trả lời",
     "select-star": "Vui lòng chọn xếp hạng sao!",
     "fill-reply": "Vui lòng nhập trả lời.",
-    "note": "Lưu ý"
+    "note": "Lưu ý",
+    "all": "Tất cả"
   },
   "payment": {
     "amount": "Giá",

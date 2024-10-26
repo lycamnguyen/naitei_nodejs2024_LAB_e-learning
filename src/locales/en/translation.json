@@ -130,7 +130,8 @@
     "submit-reply": "Submit reply",
     "select-star": "Please select a star rating!",
     "fill-reply": "Please enter a reply.",
-    "note": "Note"
+    "note": "Note",
+    "all": "All courses"
   },
   "payment": {
     "amount": "Amount",
