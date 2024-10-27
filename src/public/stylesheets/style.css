@@ -1842,3 +1842,10 @@ input[type="radio"] {
   position: absolute;
   opacity: 0;
 }
+
+.dropdown-menu {
+  display: none;
+}
+.dropdown-menu.active {
+  display: block;
+}
